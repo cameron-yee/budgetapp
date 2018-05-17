@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Budgets</string>
+    <string name="budget">Budget</string>
+    <string name="food">Food</string>
+    <string name="groceries">Groceries</string>
+    <string name="gas">Gas</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="eatout">Eat-Out</string>
+    <string name="coffee">Coffee</string>
+    <string name="reset">Reset</string>
+    <string name="groceriesValue">140</string>
+    <string name="gasValue">40</string>
+    <string name="entertainmentValue">13</string>
+    <string name="eatoutValue">30</string>
+    <string name="coffeeValue">12</string>
+    <string name="defaultInput">0</string>
+
+    <string name="updateGroceries">Update Groceries</string>
+</resources>
